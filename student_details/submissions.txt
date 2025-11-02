@@ -1,0 +1,6 @@
+{"Name":"Moulty Kumari","Email":"Mkumari28@gmail.com","Password":"0987654","Course":"DIPLOMA","Terms":"Accepted","Id":"68c1580f53009"}
+
+{"Name":"moulty","Email":"sjgdjd@gmail.com","Password":"wwee","Course":"DIPLOMA","Terms":"Accepted","Id":"68c9bfefcaf12"}
+{"Name":"moulty","Email":"moultyk0106@gmail.com","Password":"12345","Course":"DIPLOMA","Terms":"Accepted","Id":"68ca78e8c53dc"}
+{"Name":"Moulty Kumari","Email":"mk@gmail.cpm","Password":"qjkkssnbbsgcunmbmhj","Course":"DIPLOMA","Terms":"Accepted","Id":"6904e4b701441"}
+{"Name":"kritika sharma","Email":"kri@gmail.com","Password":"qjkkssnbbsgcunmbmhj","Terms":"Accepted","Id":"6904e4f448224"}

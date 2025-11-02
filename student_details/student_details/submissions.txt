@@ -1,0 +1,1 @@
+{"Name":"Moulty Kumari","Email":"Mkumari28@gmail.com","Password":"0987654","Course":"DIPLOMA","Terms":"Accepted","Id":"68c1580f53009"}
